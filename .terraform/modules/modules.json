@@ -1,1 +1,0 @@
-{"Modules":[{"Key":"managed_instance_group","Source":"terraform-google-modules/vm/google//modules/mig","Version":"1.0.0","Dir":".terraform/modules/managed_instance_group/terraform-google-vm-1.0.0/modules/mig"},{"Key":"","Source":"","Dir":"."}]}
